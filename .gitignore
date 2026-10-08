@@ -1,0 +1,22 @@
+# secrets / local config
+.env
+
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# large, re-creatable data (run the pipeline to rebuild)
+data/raw/
+data/interim/
+
+data/processed/*.tmp
+
+# full ranked exports (the top 1,000 rows are committed as top_anomalies_*.csv)
+output/anomalies_*.csv
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
