@@ -1,0 +1,19 @@
+[theme]
+base = "dark"
+primaryColor = "#ffa028"
+backgroundColor = "#080b10"
+secondaryBackgroundColor = "#0e131a"
+textColor = "#e6ebf2"
+borderColor = "#1e2732"
+baseRadius = "4px"
+font = "'IBM Plex Sans', system-ui, sans-serif"
+codeFont = "'IBM Plex Mono', Consolas, monospace"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+
+[client]
+toolbarMode = "minimal"
