@@ -1,0 +1,501 @@
+tag,n_companies,n_facts,max_abs_value,label
+NetCashProvidedByUsedInInvestingActivities,498,8069,313291000000.0,Net Cash Provided by (Used in) Investing Activities
+NetCashProvidedByUsedInFinancingActivities,498,8061,596645000000.0,Net Cash Provided by (Used in) Financing Activities
+LiabilitiesAndStockholdersEquity,498,7556,4002814000000.0,Liabilities and Equity
+AccumulatedOtherComprehensiveIncomeLossNetOfTax,490,7126,58571000000.0,"Accumulated Other Comprehensive Income (Loss), Net of Tax"
+ComprehensiveIncomeNetOfTax,484,7598,135054000000.0,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent"
+OperatingLeaseRightOfUseAsset,481,3080,76141000000.0,"Operating Lease, Right-of-Use Asset"
+LesseeOperatingLeaseLiabilityPaymentsDue,478,3118,95294000000.0,"Lessee, Operating Lease, Liability, to be Paid"
+OperatingLeaseLiability,477,3097,79596000000.0,"Operating Lease, Liability"
+LesseeOperatingLeaseLiabilityUndiscountedExcessAmount,476,3099,34962828000.0,"Lessee, Operating Lease, Liability, Undiscounted Excess Amount"
+UnrecognizedTaxBenefits,475,7661,25831000000.0,Unrecognized Tax Benefits
+LesseeOperatingLeaseLiabilityPaymentsDueYearTwo,471,3018,13186000000.0,"Lessee, Operating Lease, Liability, to be Paid, Year Two"
+LesseeOperatingLeaseLiabilityPaymentsDueYearThree,471,3017,12140000000.0,"Lessee, Operating Lease, Liability, to be Paid, Year Three"
+LesseeOperatingLeaseLiabilityPaymentsDueYearFour,471,3004,10911000000.0,"Lessee, Operating Lease, Liability, to be Paid, Year Four"
+LesseeOperatingLeaseLiabilityPaymentsDueYearFive,471,2988,9710000000.0,"Lessee, Operating Lease, Liability, to be Paid, Year Five"
+CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,470,4249,263978000000.0,"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect"
+LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive,470,2972,51965868000.0,"Lessee, Operating Lease, Liability, to be Paid, after Year Five"
+CurrentFederalTaxExpenseBenefit,466,7253,41425000000.0,Current Federal Tax Expense (Benefit)
+DeferredIncomeTaxExpenseBenefit,465,7684,35561000000.0,Deferred Income Tax Expense (Benefit)
+DeferredTaxAssetsValuationAllowance,464,6474,45281000000.0,"Deferred Tax Assets, Valuation Allowance"
+IncomeTaxesPaidNet,464,5619,43369000000.0,"Income Taxes Paid, Net"
+DeferredFederalIncomeTaxExpenseBenefit,463,6987,33819000000.0,Deferred Federal Income Tax Expense (Benefit)
+LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths,463,2918,15380000000.0,"Lessee, Operating Lease, Liability, to be Paid, Year One"
+IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate,461,4263,37721000000.0,"Effective Income Tax Rate Reconciliation at Federal Statutory Income Tax Rate, Amount"
+CurrentStateAndLocalTaxExpenseBenefit,452,6981,3342000000.0,Current State and Local Tax Expense (Benefit)
+UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions,452,6295,5845000000.0,"Unrecognized Tax Benefits, Increase Resulting from Prior Period Tax Positions"
+UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions,451,6538,3795000000.0,"Unrecognized Tax Benefits, Increase Resulting from Current Period Tax Positions"
+DeferredTaxLiabilities,449,4987,60274000000.0,"Deferred Tax Liabilities, Net"
+CashAndCashEquivalentsPeriodIncreaseDecrease,449,4688,152511000000.0,"Cash and Cash Equivalents, Period Increase (Decrease)"
+AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,445,6124,222884000000.0,"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment"
+OperatingLeasesFutureMinimumPaymentsDueInTwoYears,444,3430,4046000000.0,"Operating Leases, Future Minimum Payments, Due in Two Years"
+OperatingLeasesFutureMinimumPaymentsDueCurrent,444,3426,4361000000.0,"Operating Leases, Future Minimum Payments Due, Next Twelve Months"
+OperatingLeasePayments,444,3002,15038000000.0,"Operating Lease, Payments"
+OperatingLeasesFutureMinimumPaymentsDueInThreeYears,443,3416,3558000000.0,"Operating Leases, Future Minimum Payments, Due in Three Years"
+OperatingLeasesFutureMinimumPaymentsDueInFourYears,443,3406,3253000000.0,"Operating Leases, Future Minimum Payments, Due in Four Years"
+InterestPaidNet,442,5641,99642000000.0,"Interest Paid, Excluding Capitalized Interest, Operating Activities"
+OperatingLeasesFutureMinimumPaymentsDueInFiveYears,440,3359,2836000000.0,"Operating Leases, Future Minimum Payments, Due in Five Years"
+OperatingLeasesFutureMinimumPaymentsDueThereafter,439,3283,17630000000.0,"Operating Leases, Future Minimum Payments, Due Thereafter"
+DeferredStateAndLocalIncomeTaxExpenseBenefit,438,6491,3415000000.0,Deferred State and Local Income Tax Expense (Benefit)
+DeferredTaxAssetsNet,436,5824,58500000000.0,"Deferred Tax Assets, Net of Valuation Allowance"
+UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions,436,5810,3966535000.0,"Unrecognized Tax Benefits, Decrease Resulting from Prior Period Tax Positions"
+DeferredTaxAssetsOther,435,5752,10353000000.0,"Deferred Tax Assets, Other"
+OtherComprehensiveIncomeLossNetOfTax,434,5562,352000000000.0,"Other Comprehensive Income (Loss), Net of Tax"
+RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability,431,2881,25369000000.0,Right-of-Use Asset Obtained in Exchange for Operating Lease Liability
+CommonStockValue,430,5946,35129000000.0,"Common Stock, Value, Issued"
+IncomeTaxReconciliationStateAndLocalIncomeTaxes,430,3829,2688000000.0,"Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Amount"
+DeferredTaxAssetsLiabilitiesNet,429,3923,61936000000.0,"Deferred Tax Assets, Net"
+DeferredIncomeTaxLiabilities,428,4881,103749000000.0,"Deferred Tax Liabilities, Gross"
+AmortizationOfIntangibleAssets,423,6178,10200000000.0,Amortization of Intangible Assets
+UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities,422,5340,7041000000.0,"Unrecognized Tax Benefits, Decrease Resulting from Settlements with Taxing Authorities"
+PaymentsToAcquireBusinessesNetOfCashAcquired,422,5311,43430000000.0,"Payments to Acquire Businesses, Net of Cash Acquired"
+FiniteLivedIntangibleAssetsAmortizationExpenseYearThree,420,4595,9500000000.0,"Finite-Lived Intangible Asset, Expected Amortization, Year Three"
+FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths,420,4593,10200000000.0,"Finite-Lived Intangible Asset, Expected Amortization, Year One"
+DeferredTaxAssetsGross,419,5692,62210000000.0,"Deferred Tax Assets, Gross"
+DeferredTaxLiabilitiesOther,419,5089,8041000000.0,"Deferred Tax Liabilities, Other"
+FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo,419,4606,10100000000.0,"Finite-Lived Intangible Asset, Expected Amortization, Year Two"
+FiniteLivedIntangibleAssetsAmortizationExpenseYearFour,419,4558,8500000000.0,"Finite-Lived Intangible Asset, Expected Amortization, Year Four"
+PropertyPlantAndEquipmentGross,418,5763,534098000000.0,"Property, Plant and Equipment, Gross"
+OperatingLeaseCost,418,2773,14006000000.0,"Operating Lease, Cost"
+OtherAssetsNoncurrent,415,6022,82147000000.0,"Other Assets, Noncurrent"
+CurrentForeignTaxExpenseBenefit,413,6224,25483000000.0,Current Foreign Tax Expense (Benefit)
+FiniteLivedIntangibleAssetsAmortizationExpenseYearFive,413,4443,8400000000.0,"Finite-Lived Intangible Asset, Expected Amortization, Year Five"
+CurrentIncomeTaxExpenseBenefit,412,6486,30464000000.0,Current Income Tax Expense (Benefit)
+FiniteLivedIntangibleAssetsAccumulatedAmortization,412,5193,67549000000.0,"Finite-Lived Intangible Assets, Accumulated Amortization"
+UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,409,5201,21600000000.0,Unrecognized Tax Benefits that Would Impact Effective Tax Rate
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,407,4557,753000000000.0,"Long-Term Debt, Maturity, Year Two"
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,406,4566,819000000000.0,"Long-Term Debt, Maturity, Year Three"
+OperatingLeaseLiabilityNoncurrent,406,2544,69050000000.0,"Operating Lease, Liability, Noncurrent"
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,405,4545,750000000000.0,"Long-Term Debt, Maturity, Year Four"
+UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations,403,5297,3162000000.0,"Unrecognized Tax Benefits, Reduction Resulting from Lapse of Applicable Statute of Limitations"
+OperatingLeaseLiabilityCurrent,402,2472,10546000000.0,"Operating Lease, Liability, Current"
+DeferredForeignIncomeTaxExpenseBenefit,401,5905,10979000000.0,Deferred Foreign Income Tax Expense (Benefit)
+OtherLiabilitiesNoncurrent,401,5695,65117000000.0,"Other Liabilities, Noncurrent"
+LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,401,4361,858000000000.0,"Long-Term Debt, Maturity, Year One"
+PaymentsForProceedsFromOtherInvestingActivities,399,5634,80779000000.0,Payments for (Proceeds from) Other Investing Activities
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive,399,4449,893000000000.0,"Long-Term Debt, Maturity, Year Five"
+OperatingLeasesFutureMinimumPaymentsDue,397,2835,27980000000.0,"Operating Leases, Future Minimum Payments Due"
+ProceedsFromPaymentsForOtherFinancingActivities,391,5211,72800000000.0,Proceeds from (Payments for) Other Financing Activities
+GoodwillAcquiredDuringPeriod,385,3453,51235000000.0,"Goodwill, Acquired During Period"
+IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign,384,5505,82000000000.0,"Income (Loss) from Continuing Operations before Income Taxes, Foreign"
+IncomeTaxPaidFederalAfterRefundReceived,380,693,26482000000.0,IncomeTaxPaidFederalAfterRefundReceived
+DeferredTaxLiabilitiesPropertyPlantAndEquipment,372,4801,39345000000.0,"Deferred Tax Liabilities, Property, Plant and Equipment"
+OtherNonoperatingIncomeExpense,370,5831,16806000000.0,Other Nonoperating Income (Expense)
+FiniteLivedIntangibleAssetsGross,368,4240,103397000000.0,"Finite-Lived Intangible Assets, Gross"
+IncomeTaxReconciliationOtherAdjustments,350,3093,976000000.0,"Effective Income Tax Rate Reconciliation, Other Adjustments, Amount"
+ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest,347,4752,111629000000.0,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest"
+LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive,347,3584,163637000000.0,"Long-Term Debt, Maturity, after Year Five"
+EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,341,4487,5400000000.0,"Share-based Payment Arrangement, Expense, Tax Benefit"
+DefinedContributionPlanCostRecognized,340,4562,1925000000.0,"Defined Contribution Plan, Cost"
+DeferredIncomeTaxLiabilitiesNet,340,2421,92344000000.0,"Deferred Income Tax Liabilities, Net"
+MinorityInterest,339,3887,56580000000.0,Stockholders' Equity Attributable to Noncontrolling Interest
+ProceedsFromIssuanceOfLongTermDebt,336,4295,122029000000.0,Proceeds from Issuance of Long-term Debt
+RepaymentsOfLongTermDebt,334,4350,124389000000.0,Repayments of Long-term Debt
+LeaseCost,333,2201,20296000000.0,"Lease, Cost"
+OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,332,3974,7220000000.0,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax"
+AllowanceForDoubtfulAccountsReceivableCurrent,331,4273,5927000000.0,"Accounts Receivable, Allowance for Credit Loss, Current"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue,329,3061,43065332000000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Outstanding, Intrinsic Value"
+IncomeTaxReconciliationChangeInDeferredTaxAssetsValuationAllowance,328,2306,33917000000.0,"Effective Income Tax Rate Reconciliation, Change in Deferred Tax Assets Valuation Allowance, Amount"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue,327,3543,26880000000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercises in Period, Intrinsic Value"
+NetIncomeLossAttributableToNoncontrollingInterest,325,5409,12050000000.0,Net Income (Loss) Attributable to Noncontrolling Interest
+DeferredTaxAssetsOperatingLossCarryforwards,325,3869,18732000000.0,"Deferred Tax Assets, Operating Loss Carryforwards"
+EffectOfExchangeRateOnCashAndCashEquivalents,321,3369,8086000000.0,Effect of Exchange Rate on Cash and Cash Equivalents
+IncomeTaxReconciliationTaxContingencies,321,1104,3127000000.0,"Effective Income Tax Rate Reconciliation, Tax Contingency, Amount"
+EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,320,2547,17835000000.0,"Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents"
+IncomeTaxPaidStateAndLocalAfterRefundReceived,320,555,2919000000.0,IncomeTaxPaidStateAndLocalAfterRefundReceived
+DeferredTaxLiabilitiesNoncurrent,319,2463,60128000000.0,"Deferred Tax Liabilities, Net, Noncurrent"
+TreasuryStockValue,313,3920,150715000000.0,"Treasury Stock, Value"
+EmployeeRelatedLiabilitiesCurrent,310,4141,15140000000.0,"Employee-related Liabilities, Current"
+LeaseAndRentalExpense,309,2786,5296000000.0,"Operating Leases, Rent Expense"
+ProceedsFromStockOptionsExercised,308,3541,5835000000.0,Proceeds from Stock Options Exercised
+IncreaseDecreaseInInventories,305,5051,12391000000.0,Increase (Decrease) in Inventories
+AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,303,4202,25130000000.0,"APIC, Share-based Payment Arrangement, Increase for Cost Recognition"
+SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableIntrinsicValue1,303,2532,269474477000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercisable, Intrinsic Value"
+ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,302,2594,1869000000.0,"Excess Tax Benefit from Share-based Compensation, Financing Activities"
+OtherAssetsCurrent,301,3718,48594000000.0,"Other Assets, Current"
+GainsLossesOnExtinguishmentOfDebt,298,2897,8368000000.0,Gain (Loss) on Extinguishment of Debt
+PreferredStockValue,296,3162,70664000000.0,"Preferred Stock, Value, Issued"
+OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,295,2895,21512000000.0,"Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent"
+IncomeLossFromEquityMethodInvestments,293,3834,9590000000.0,Income (Loss) from Equity Method Investments
+TreasuryStockValueAcquiredCostMethod,289,3414,45000000000.0,"Treasury Stock, Value, Acquired, Cost Method"
+DeferredTaxAssetsNetCurrent,288,1653,5833000000.0,"Deferred Tax Assets, Net of Valuation Allowance, Current"
+UndistributedEarningsOfForeignSubsidiaries,286,1982,142000000000.0,Undistributed Earnings of Foreign Subsidiaries
+IncreaseDecreaseInAccountsReceivable,282,4407,15399000000.0,Increase (Decrease) in Accounts Receivable
+OtherNoncashIncomeExpense,282,3682,18125000000.0,Other Noncash Income (Expense)
+EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized,282,2732,54810000000.0,"Share-based Payment Arrangement, Nonvested Award, Cost Not yet Recognized, Amount"
+UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued,279,3278,9400000000.0,"Unrecognized Tax Benefits, Income Tax Penalties and Interest Accrued"
+IncomeTaxReconciliationForeignIncomeTaxRateDifferential,278,2573,8120000000.0,"Effective Income Tax Rate Reconciliation, Foreign Income Tax Rate Differential, Amount"
+VariableLeaseCost,276,1800,16100000000.0,"Variable Lease, Cost"
+AdditionalPaidInCapitalCommonStock,273,3745,130175000000.0,"Additional Paid in Capital, Common Stock"
+InterestPaid,273,2728,43472000000.0,"Interest Paid, Including Capitalized Interest, Operating and Investing Activities"
+DeferredIncomeTaxAssetsNet,273,1833,36860000000.0,"Deferred Income Tax Assets, Net"
+ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest,272,3327,12035000000.0,"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest"
+FutureAmortizationExpenseYearTwo,267,435,5320000000.0,"Future Amortization Expense, Year Two (Deprecated 2012-01-31)"
+FutureAmortizationExpenseYearOne,266,431,5504000000.0,"Future Amortization Expense, Year One (Deprecated 2012-01-31)"
+FutureAmortizationExpenseYearThree,265,433,4889000000.0,"Future Amortization Expense, Year Three (Deprecated 2012-01-31)"
+ValuationAllowanceDeferredTaxAssetChangeInAmount,263,1920,36364000000.0,"Valuation Allowance, Deferred Tax Asset, Increase (Decrease), Amount"
+ProceedsFromIssuanceOfCommonStock,262,2837,21976000000.0,Proceeds from Issuance of Common Stock
+FutureAmortizationExpenseYearFour,261,428,4300000000.0,"Future Amortization Expense, Year Four (Deprecated 2012-01-31)"
+IncomeTaxesPaid,258,3072,19130000000.0,Income Taxes Paid
+FutureAmortizationExpenseYearFive,258,420,3700000000.0,"Future Amortization Expense, Year Five (Deprecated 2012-01-31)"
+OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax,255,3119,11300000000.0,"Other Comprehensive (Income) Loss, Defined Benefit Plan, after Reclassification Adjustment, after Tax"
+AccruedIncomeTaxesCurrent,255,2581,26601000000.0,"Accrued Income Taxes, Current"
+FinanceLeaseLiability,252,1442,66594000000.0,"Finance Lease, Liability"
+OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,248,2375,28304000000.0,"OCI, Debt Securities, Available-for-Sale, Unrealized Holding Gain (Loss), before Adjustment, after Tax"
+AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax,247,1829,13255000000.0,"Accumulated Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Net of Tax"
+DividendsCommonStockCash,246,3432,27035000000.0,"Dividends, Common Stock, Cash"
+DebtInstrumentCarryingAmount,246,1980,177742000000.0,"Long-term Debt, Gross"
+OtherLiabilitiesCurrent,245,2971,78304000000.0,"Other Liabilities, Current"
+AdditionalPaidInCapital,245,2849,120864000000.0,Additional Paid in Capital
+EquityMethodInvestments,245,2091,46618000000.0,Equity Method Investments
+LineOfCreditFacilityMaximumBorrowingCapacity,244,1188,2800000000000.0,"Line of Credit Facility, Maximum Borrowing Capacity"
+OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease,244,1032,11007000000.0,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax (Deprecated 2012-01-31)"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice,244,561,59160000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercises in Period, Weighted Average Exercise Price (Deprecated 2012-01-31)"
+GoodwillForeignCurrencyTranslationGainLoss,243,2056,3006000000.0,"Goodwill, Foreign Currency Translation Gain (Loss)"
+InvestmentIncomeInterest,240,3308,28032000000.0,"Investment Income, Interest"
+OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax,240,1825,2905000000.0,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Net of Tax"
+StockIssuedDuringPeriodValueShareBasedCompensation,239,2746,2962000000.0,"Shares Issued, Value, Share-based Payment Arrangement, after Forfeiture"
+StockIssuedDuringPeriodValueNewIssues,239,1387,40000000000.0,"Stock Issued During Period, Value, New Issues"
+IncreaseDecreaseInAccountsPayable,237,3671,114531000000.0,Increase (Decrease) in Accounts Payable
+AccruedLiabilitiesCurrent,234,2819,66965000000.0,"Accrued Liabilities, Current"
+ProceedsFromSaleOfPropertyPlantAndEquipment,234,2586,10954000000.0,"Proceeds from Sale of Property, Plant, and Equipment"
+RestructuringReserve,234,1816,2546000000.0,Restructuring Reserve
+IncreaseDecreaseInOtherOperatingAssets,233,3105,35154000000.0,Increase (Decrease) in Other Operating Assets
+NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,231,1745,153492000000.0,"Net Cash Provided by (Used in) Investing Activities, Continuing Operations"
+DeferredTaxAssetsNetNoncurrent,231,1597,11863000000.0,"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent"
+FinanceLeaseLiabilityPaymentsDue,231,1333,89686000000.0,"Finance Lease, Liability, Payment, Due"
+FinanceLeaseLiabilityPaymentsDueYearTwo,231,1296,7294000000.0,"Finance Lease, Liability, to be Paid, Year Two"
+FinanceLeaseLiabilityPaymentsDueYearThree,231,1293,6668000000.0,"Finance Lease, Liability, to be Paid, Year Three"
+FinanceLeaseLiabilityPaymentsDueYearFour,230,1295,6570000000.0,"Finance Lease, Liability, to be Paid, Year Four"
+FinanceLeaseLiabilityPaymentsDueYearFive,230,1277,6543000000.0,"Finance Lease, Liability, to be Paid, Year Five"
+IncomeTaxReconciliationNondeductibleExpenseOther,230,730,955000000.0,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Other, Amount"
+FinanceLeaseLiabilityUndiscountedExcessAmount,229,1312,23092000000.0,"Finance Lease, Liability, Undiscounted Excess Amount"
+FinanceLeaseLiabilityPaymentsDueNextTwelveMonths,229,1261,10778000000.0,"Finance Lease, Liability, to be Paid, Year One"
+ProvisionForDoubtfulAccounts,227,2508,4039000000.0,"Accounts Receivable, Credit Loss Expense (Reversal)"
+StockRepurchasedDuringPeriodValue,227,1699,24533000000.0,"Stock Repurchased During Period, Value"
+ContractWithCustomerLiabilityRevenueRecognized,227,1527,76948000000.0,"Contract with Customer, Liability, Revenue Recognized"
+FinanceLeaseLiabilityPaymentsDueAfterYearFive,226,1256,55490000000.0,"Finance Lease, Liability, to be Paid, after Year Five"
+OtherAccruedLiabilitiesCurrent,225,2835,54293000000.0,"Other Accrued Liabilities, Current"
+GoodwillWrittenOffRelatedToSaleOfBusinessUnit,225,857,11932000000.0,"Goodwill, Written off Related to Sale of Business Unit"
+DeferredTaxLiabilitiesGoodwillAndIntangibleAssetsIntangibleAssets,224,2485,31404000000.0,"Deferred Tax Liabilities, Intangible Assets"
+PaymentsRelatedToTaxWithholdingForShareBasedCompensation,224,2323,18400000000.0,"Payment, Tax Withholding, Share-based Payment Arrangement"
+ContractWithCustomerLiability,224,1370,75712000000.0,"Contract with Customer, Liability"
+ProceedsFromDivestitureOfBusinesses,222,1356,14225000000.0,Proceeds from Divestiture of Businesses
+PrepaidExpenseAndOtherAssetsCurrent,221,2603,20861000000.0,"Prepaid Expense and Other Assets, Current"
+IncomeTaxReconciliationChangeInEnactedTaxRate,221,1114,20271000000.0,"Effective Income Tax Rate Reconciliation, Change in Enacted Tax Rate, Amount"
+ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodNetOfTax,220,1554,4957000000.0,"Reclassification from Accumulated Other Comprehensive Income, Current Period, Net of Tax"
+NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,219,1592,144494000000.0,"Net Cash Provided by (Used in) Financing Activities, Continuing Operations"
+StockRepurchaseProgramAuthorizedAmount1,217,798,315000000000.0,"Stock Repurchase Program, Authorized Amount"
+FinanceLeasePrincipalPayments,216,1373,11163000000.0,"Finance Lease, Principal Payments"
+IncomeLossFromDiscontinuedOperationsNetOfTax,215,3546,17473000000.0,"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest"
+NetIncomeLossAvailableToCommonStockholdersDiluted,213,2105,132170000000.0,"Net Income (Loss) Available to Common Stockholders, Diluted"
+AvailableForSaleSecuritiesDebtSecurities,213,1506,412905000000.0,"Debt Securities, Available-for-sale"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice,213,502,64810000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Grants in Period, Weighted Average Exercise Price (Deprecated 2012-01-31)"
+IncomeTaxReconciliationTaxCredits,211,1150,5100000000.0,"Effective Income Tax Rate Reconciliation, Tax Credit, Amount"
+OperatingLeasesRentExpenseNet,209,1756,2535000000.0,"Operating Leases, Rent Expense, Net"
+AdjustmentsToAdditionalPaidInCapitalTaxEffectFromShareBasedCompensation,209,1370,8299900000.0,"Adjustments to Additional Paid in Capital, Income Tax Benefit from Share-based Compensation"
+FinanceLeaseRightOfUseAsset,209,1144,57400000000.0,"Finance Lease, Right-of-Use Asset, after Accumulated Amortization"
+IncreaseDecreaseInOtherOperatingCapitalNet,208,2822,20986000000.0,"Increase (Decrease) in Other Operating Assets and Liabilities, Net"
+DeferredTaxLiabilitiesUndistributedForeignEarnings,208,1869,49000000000.0,"Deferred Tax Liabilities, Undistributed Foreign Earnings"
+ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,208,1680,1869000000.0,"Excess Tax Benefit from Share-based Compensation, Operating Activities"
+IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,207,4172,107194000000.0,"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest"
+DeferredTaxLiabilitiesLeasingArrangements,206,1487,21474000000.0,"Deferred Tax Liabilities, Leasing Arrangements"
+StockIssuedDuringPeriodValueAcquisitions,206,558,75097000000.0,"Stock Issued During Period, Value, Acquisitions"
+NonoperatingIncomeExpense,205,3198,72607000000.0,Nonoperating Income (Expense)
+DefinedBenefitPlanFairValueOfPlanAssets,205,1917,108890000000.0,"Defined Benefit Plan, Plan Assets, Amount"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1,205,1321,58500000000.0,"Stock Repurchase Program, Remaining Authorized Repurchase Amount"
+FinanceLeaseLiabilityNoncurrent,203,1135,18060000000.0,"Finance Lease, Liability, Noncurrent"
+FinanceLeaseLiabilityCurrent,203,1121,10374000000.0,"Finance Lease, Liability, Current"
+UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense,202,2122,1500000000.0,"Unrecognized Tax Benefits, Income Tax Penalties and Interest Expense"
+AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffectNetOfTax,202,1176,4402000000.0,"Accumulated Other Comprehensive Income (Loss), Cumulative Changes in Net Gain (Loss) from Cash Flow Hedges, Effect Net of Tax"
+DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost,201,2652,5279000000.0,"Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits, Share-based Compensation Cost"
+DeferredTaxAssetsTaxCreditCarryforwards,201,1970,11037000000.0,"Deferred Tax Assets, Tax Credit Carryforwards"
+AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax,201,1584,17708000000.0,"Accumulated Other Comprehensive (Income) Loss, Defined Benefit Plan, after Tax"
+OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax,201,1468,1590000000.0,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax"
+OtherComprehensiveIncomeLossBeforeReclassificationsNetOfTax,201,1453,29194000000.0,"Other Comprehensive Income (Loss), before Reclassifications, Net of Tax"
+FinanceLeaseRightOfUseAssetAmortization,201,1255,10094000000.0,"Finance Lease, Right-of-Use Asset, Amortization"
+AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent,201,841,119776000000.0,"Disposal Group, Including Discontinued Operation, Assets, Current"
+FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive,199,1772,25296000000.0,"Finite-Lived Intangible Asset, Expected Amortization, after Year Five"
+ShortTermLeaseCost,199,1275,1510000000.0,"Short-term Lease, Cost"
+MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders,198,1810,3578000000.0,"Noncontrolling Interest, Decrease from Distributions to Noncontrolling Interest Holders"
+OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax,198,1301,7099000000.0,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), after Reclassification and Tax"
+OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease,197,824,30177000000.0,"Other Comprehensive Income (Loss), Net of Tax (Deprecated 2012-01-31)"
+CostsAndExpenses,196,3341,636949000000.0,Costs and Expenses
+DerivativeFairValueOfDerivativeLiability,196,1612,1861300000000.0,"Derivative Liability, Fair Value, Gross Liability"
+FinanceLeaseInterestExpense,196,1182,2547000000.0,"Finance Lease, Interest Expense"
+CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,196,338,4625837000.0,Cumulative Effect of New Accounting Principle in Period of Adoption (Deprecated 2020-01-31)
+IncomeTaxReconciliationNondeductibleExpense,195,878,1982000000.0,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Amount"
+PaymentsForRestructuring,193,1273,2141000000.0,Payments for Restructuring
+RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability,193,1153,24608000000.0,Right-of-Use Asset Obtained in Exchange for Finance Lease Liability
+IncomeTaxPaidForeignAfterRefundReceived,193,350,6311000000.0,IncomeTaxPaidForeignAfterRefundReceived
+ForeignCurrencyTransactionGainLossBeforeTax,192,2225,2148000000.0,"Foreign Currency Transaction Gain (Loss), before Tax"
+PaymentsOfDebtIssuanceCosts,192,1819,2057000000.0,Payments of Debt Issuance Costs
+MinorityInterestDecreaseFromRedemptions,192,805,3611000000.0,"Noncontrolling Interest, Decrease from Redemptions or Purchase of Interests"
+DerivativeFairValueOfDerivativeAsset,191,1634,1884499000000.0,"Derivative Asset, Fair Value, Gross Asset"
+GainLossOnSaleOfBusiness,191,1312,12469000000.0,Gain (Loss) on Disposition of Business
+LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent,191,764,69434000000.0,"Disposal Group, Including Discontinued Operation, Liabilities, Current"
+AdvertisingExpense,190,2675,23500000000.0,Advertising Expense
+CapitalExpendituresIncurredButNotYetPaid,189,2013,27000000000.0,Capital Expenditures Incurred but Not yet Paid
+DerivativeAssets,189,1221,92477000000.0,Derivative Asset
+OperatingLossCarryforwards,188,1222,45273000000.0,Operating Loss Carryforwards
+IncreaseDecreaseInAccruedIncomeTaxesPayable,184,2268,18183000000.0,Increase (Decrease) in Income Taxes Payable
+DerivativeLiabilities,184,1189,74980000000.0,Derivative Liability
+Land,183,1712,24386000000.0,Land
+GainLossOnSaleOfPropertyPlantEquipment,183,1462,4089000000.0,Gain (Loss) on Disposition of Property Plant Equipment
+IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,182,2613,42430000000.0,Increase (Decrease) in Prepaid Expense and Other Assets
+IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,182,2376,21827000000.0,"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent"
+TreasuryStockCommonValue,182,736,169968000000.0,"Treasury Stock, Common, Value"
+IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,181,2735,24061000000.0,Increase (Decrease) in Accounts Payable and Accrued Liabilities
+GoodwillImpairedAccumulatedImpairmentLoss,181,1460,30558000000.0,"Goodwill, Impaired, Accumulated Impairment Loss"
+IncomeTaxReconciliationNondeductibleExpenseShareBasedCompensationCost,181,1150,2236000000.0,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Share-based Payment Arrangement, Amount"
+OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax,180,1661,7400000000.0,"Other Comprehensive (Income) Loss, Defined Benefit Plan, after Reclassification Adjustment, Tax"
+StockRepurchasedAndRetiredDuringPeriodValue,180,1350,95000000000.0,"Stock Repurchased and Retired During Period, Value"
+BusinessCombinationAcquisitionRelatedCosts,180,1339,4713000000.0,"Business Combination, Acquisition Related Costs"
+IncreaseDecreaseInOtherOperatingLiabilities,179,2296,38449000000.0,Increase (Decrease) in Other Operating Liabilities
+StockholdersEquityOther,178,1459,3555000000.0,"Stockholders' Equity, Other"
+AvailableForSaleSecurities,178,950,371145000000.0,Available-for-sale Securities
+DebtInstrumentFaceAmount,178,758,130105000000.0,"Debt Instrument, Face Amount"
+BusinessAcquisitionsProFormaRevenue,178,652,243232000000.0,"Business Acquisition, Pro Forma Revenue"
+AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,177,1020,10361000000.0,"AOCI, Debt Securities, Available-for-sale, Adjustment, after Tax"
+GoodwillPurchaseAccountingAdjustments,177,756,29029000000.0,"Goodwill, Purchase Accounting Adjustments"
+OperatingExpenses,176,2916,182110000000.0,Operating Expenses
+OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease,176,761,13288000000.0,"Other Comprehensive Income (Loss), Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax (Deprecated 2012-01-31)"
+FiniteLivedIntangibleAssetsAmortizationExpense,176,639,5800000000.0,"Finite-Lived Intangible Assets, Amortization Expense (Deprecated 2012-01-31)"
+NoncurrentAssets,175,1833,475513000000.0,Long-Lived Assets
+StockIssuedDuringPeriodValueStockOptionsExercised,175,1792,2296000000.0,"Stock Issued During Period, Value, Stock Options Exercised"
+OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax,175,1507,10566000000.0,"OCI, Debt Securities, Available-for-Sale, Unrealized Holding Gain (Loss), before Adjustment, Tax"
+BuildingsAndImprovementsGross,174,1649,182749000000.0,"Buildings and Improvements, Gross"
+IndefiniteLivedIntangibleAssetsExcludingGoodwill,174,1560,130711000000.0,Indefinite-lived Intangible Assets (Excluding Goodwill)
+AllowanceForDoubtfulAccountsReceivable,174,1334,5488000000.0,"Accounts Receivable, Allowance for Credit Loss"
+IncomeTaxReconciliationTaxCreditsResearch,174,1003,3912000000.0,"Effective Income Tax Rate Reconciliation, Tax Credit, Research, Amount"
+IntangibleAssetsGrossExcludingGoodwill,172,1516,127728000000.0,"Intangible Assets, Gross (Excluding Goodwill)"
+OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax,172,1264,1354000000.0,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Tax"
+ConstructionInProgressGross,171,1765,35136000000.0,"Construction in Progress, Gross"
+OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,170,1619,24031000000.0,"OCI, Debt Securities, Available-for-Sale, Gain (Loss), after Adjustment and Tax"
+AvailableForSaleDebtSecuritiesAmortizedCostBasis,170,1133,354470000000.0,"Debt Securities, Available-for-sale, Amortized Cost"
+RevenueRemainingPerformanceObligation,170,1000,684000000000.0,"Revenue, Remaining Performance Obligation, Amount"
+CapitalLeasesFutureMinimumPaymentsDueCurrent,170,950,9878000000.0,"Capital Leases, Future Minimum Payments Due, Next Twelve Months"
+PaymentsToMinorityShareholders,169,1205,58886000000.0,Payments to Noncontrolling Interests
+CapitalLeasesFutureMinimumPaymentsDueInTwoYears,169,946,7655000000.0,"Capital Leases, Future Minimum Payments Due in Two Years"
+InterestPayableCurrent,168,1786,2661000000.0,"Interest Payable, Current"
+FinanceLeaseInterestPaymentOnLiability,168,1046,2547000000.0,"Finance Lease, Interest Payment on Liability"
+CapitalLeasesFutureMinimumPaymentsDueInThreeYears,168,929,4060000000.0,"Capital Leases, Future Minimum Payments Due in Three Years"
+OtherComprehensiveIncomeLossTax,167,1657,6812000000.0,"Other Comprehensive Income (Loss), Tax"
+OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax,167,1585,5010000000.0,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Gain (Loss) Arising During Period, Net of Tax"
+AssetsFairValueDisclosure,167,881,907669000000.0,"Assets, Fair Value Disclosure"
+DeferredTaxLiabilitiesCurrent,167,764,6267000000.0,"Deferred Tax Liabilities, Net, Current"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingAggregateIntrinsicValue,166,1320,375375548000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Vested and Expected to Vest, Outstanding, Aggregate Intrinsic Value"
+LettersOfCreditOutstandingAmount,166,1256,18310000000.0,"Letters of Credit Outstanding, Amount"
+PaymentsToAcquireInvestments,164,1617,406046000000.0,Payments to Acquire Investments
+CapitalLeasesFutureMinimumPaymentsDueInFourYears,164,906,1332000000.0,"Capital Leases, Future Minimum Payments Due in Four Years"
+CapitalLeasesFutureMinimumPaymentsDueInFiveYears,164,881,989000000.0,"Capital Leases, Future Minimum Payments Due in Five Years"
+DeferredTaxAssetsDeferredIncome,163,1569,5742000000.0,"Deferred Tax Assets, Deferred Income"
+ProceedsFromRepaymentsOfShortTermDebt,162,1849,126426000000.0,Proceeds from (Repayments of) Short-term Debt
+LongTermDebtFairValue,161,1183,125600000000.0,"Long-term Debt, Fair Value"
+CapitalLeasesFutureMinimumPaymentsDueThereafter,161,863,6069000000.0,"Capital Leases, Future Minimum Payments Due Thereafter"
+ProceedsFromDivestitureOfBusinessesNetOfCashDivested,160,1088,79615000000.0,"Proceeds from Divestiture of Businesses, Net of Cash Divested"
+AvailableForSaleSecuritiesAmortizedCost,160,920,359892000000.0,"Available-for-sale Securities, Amortized Cost Basis"
+DeferredTaxAssetsInventory,159,1864,2269000000.0,"Deferred Tax Assets, Inventory"
+TaxesPayableCurrent,159,1528,10107000000.0,"Taxes Payable, Current"
+CapitalLeasesFutureMinimumPaymentsDue,158,883,17952000000.0,"Capital Leases, Future Minimum Payments Due"
+BusinessAcquisitionsProFormaNetIncomeLoss,158,560,20234000000.0,"Business Acquisition, Pro Forma Net Income (Loss)"
+AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearFairValue,155,1437,96778000000.0,"Debt Securities, Available-for-Sale, Fair Value, Maturity, Allocated and Single Maturity Date, Year One"
+EffectiveIncomeTaxRateReconciliationCrossBorderOtherAmount,155,216,799000000.0,EffectiveIncomeTaxRateReconciliationCrossBorderOtherAmount
+InterestCostsCapitalized,154,1677,2030000000.0,Interest Costs Capitalized
+AdjustmentsNoncashItemsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesOther,154,554,18268000000.0,"Adjustments, Noncash Items, to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities, Other (Deprecated 2011-01-31)"
+PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent,153,1724,34346000000.0,"Liability, Defined Benefit Plan, Noncurrent"
+UnrecordedUnconditionalPurchaseObligationBalanceSheetAmount,153,768,4618903000000.0,Unrecorded Unconditional Purchase Obligation
+DebtInstrumentUnamortizedDiscountPremiumAndDebtIssuanceCostsNet,152,979,2320000000.0,"Debt Instrument, Unamortized Discount (Premium) and Debt Issuance Costs, Net"
+DeferredIncomeTaxesAndTaxCredits,150,1669,35561000000.0,Deferred Income Taxes and Tax Credits
+ContractWithCustomerLiabilityNoncurrent,150,941,14744000000.0,"Contract with Customer, Liability, Noncurrent"
+GoodwillTranslationAdjustments,150,671,2256000000.0,"Goodwill, Translation Adjustments (Deprecated 2016-01-31)"
+OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent,149,1165,6489000000.0,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax, Portion Attributable to Parent"
+RestrictedCashAndCashEquivalents,149,1040,46500000000.0,Restricted Cash and Cash Equivalents
+AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax,149,845,45519000000.0,"Debt Securities, Available-for-sale, Accumulated Gross Unrealized Gain, before Tax"
+UnrecognizedTaxBenefitsInterestOnIncomeTaxesAccrued,148,1431,1900000000.0,"Unrecognized Tax Benefits, Interest on Income Taxes Accrued"
+OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax,148,1277,2500000000.0,"Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Tax"
+ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,147,1181,164155000000.0,"Proceeds from Sale of Debt Securities, Available-for-sale"
+DefinedBenefitPlanContributionsByEmployer,146,1012,3500000000.0,"Defined Benefit Plan, Plan Assets, Contributions by Employer"
+MachineryAndEquipmentGross,145,1503,136737000000.0,"Machinery and Equipment, Gross"
+OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax,145,973,3497000000.0,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI on Derivatives, Net of Tax"
+SegmentExpenditureAdditionToLongLivedAssets,145,644,142352000000.0,SegmentExpenditureAdditionToLongLivedAssets
+DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsAccruedLiabilities,144,1758,8340000000.0,"Deferred Tax Assets, Tax Deferred Expense, Reserves and Accruals, Accrued Liabilities"
+PrepaidExpenseCurrent,144,1308,8341000000.0,"Prepaid Expense, Current"
+DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,144,910,19566000000.0,"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal"
+InventoryFinishedGoods,143,1194,10673000000.0,"Inventory, Finished Goods, Gross"
+AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax,143,809,36039000000.0,"Debt Securities, Available-for-sale, Accumulated Gross Unrealized Loss, before Tax"
+LineOfCreditFacilityAmountOutstanding,143,358,18500000000.0,"Line of Credit Facility, Amount Outstanding (Deprecated 2014-01-31)"
+DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefits,142,1916,14950000000.0,"Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits"
+DebtInstrumentUnamortizedDiscount,142,885,1516500000.0,"Debt Instrument, Unamortized Discount"
+IncomeTaxReconciliationTaxCreditsOther,142,464,1009000000.0,"Effective Income Tax Rate Reconciliation, Tax Credit, Other, Amount"
+DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible,141,697,6400000000.0,Decrease in Unrecognized Tax Benefits is Reasonably Possible
+DiscontinuedOperationTaxEffectOfDiscontinuedOperation,140,1005,3599000000.0,"Discontinued Operation, Tax Effect of Discontinued Operation"
+DeferredTaxAssetsPropertyPlantAndEquipment,140,968,5191000000.0,"Deferred Tax Assets, Property, Plant and Equipment"
+UnrecognizedTaxBenefitsIncreasesResultingFromAcquisition,140,688,2728000000.0,"Unrecognized Tax Benefits, Increase Resulting from Acquisition"
+TaxAdjustmentsSettlementsAndUnusualProvisions,139,499,8300000000.0,"Tax Adjustments, Settlements, and Unusual Provisions"
+RestrictedCashAndCashEquivalentsAtCarryingValue,138,1080,11276000000.0,"Restricted Cash and Cash Equivalents, Current"
+ImpairmentOfInvestments,138,770,6696000000.0,"Other than Temporary Impairment Losses, Investments"
+ImpairmentOfIntangibleAssetsFinitelived,138,651,4300000000.0,"Impairment of Intangible Assets, Finite-lived"
+OtherOperatingActivitiesCashFlowStatement,137,1401,9558000000.0,"Other Operating Activities, Cash Flow Statement"
+PaymentsToAcquireEquityMethodInvestments,137,967,5258000000.0,Payments to Acquire Equity Method Investments
+GainLossOnInvestments,136,1065,77576000000.0,Gain (Loss) on Investments
+PaymentsToAcquireBusinessesGross,136,602,19114000000.0,"Payments to Acquire Businesses, Gross"
+OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease,136,550,2664000000.0,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax (Deprecated 2012-01-31)"
+AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsFairValue,135,1215,78625000000.0,"Debt Securities, Available-for-Sale, Fair Value, Maturity, Allocated and Single Maturity Date, after Year One Through Five"
+IncomeTaxesReceivable,135,1138,2600000000.0,"Income Taxes Receivable, Current"
+DeferredFinanceCostsNet,135,977,4079000000.0,"Debt Issuance Costs, Net"
+LineOfCredit,135,727,15167543000.0,Long-term Line of Credit
+IncomeTaxReconciliationOtherReconcilingItems,134,1226,6687000000.0,"Effective Income Tax Rate Reconciliation, Other Reconciling Items, Amount"
+DefinedBenefitPlanNetPeriodicBenefitCost,133,1146,25237000000.0,"Defined Benefit Plan, Net Periodic Benefit Cost (Credit)"
+SignificantChangeInUnrecognizedTaxBenefitsIsReasonablyPossibleAmountOfUnrecordedBenefit,133,802,2600000000.0,"Significant Change in Unrecognized Tax Benefits is Reasonably Possible, Amount of Unrecorded Benefit"
+OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax,133,740,2490000000.0,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, before Tax"
+EffectiveIncomeTaxRateReconciliationCrossBorderTaxEffectAmount,133,249,2477000000.0,EffectiveIncomeTaxRateReconciliationCrossBorderTaxEffectAmount
+CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,132,1001,14112000000.0,"Cash Provided by (Used in) Operating Activities, Discontinued Operations"
+OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax,132,858,2703000000.0,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), before Reclassification, after Tax"
+EmployeeServiceShareBasedCompensationTaxBenefitRealizedFromExerciseOfStockOptions,132,852,575000000.0,"Employee Service Share-based Compensation, Tax Benefit Realized from Exercise of Stock Options (Deprecated 2017-01-31)"
+SubleaseIncome,132,791,335000000.0,Sublease Income
+DefinedBenefitPlanAccumulatedBenefitObligation,131,1198,70200000000.0,"Defined Benefit Plan, Accumulated Benefit Obligation"
+GainLossOnDispositionOfAssets1,131,945,12468000000.0,Gain (Loss) on Disposition of Assets
+EquitySecuritiesWithoutReadilyDeterminableFairValueAmount,131,673,35218000000.0,"Equity Securities without Readily Determinable Fair Value, Amount"
+ProceedsFromLinesOfCredit,130,1015,132134224000.0,Proceeds from Lines of Credit
+DisposalGroupIncludingDiscontinuedOperationRevenue,130,668,32987000000.0,"Disposal Group, Including Discontinued Operation, Revenue"
+AssetsOfDisposalGroupIncludingDiscontinuedOperation,130,475,323529000000.0,"Disposal Group, Including Discontinued Operation, Assets"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue,129,1145,39700000000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Vested in Period, Fair Value"
+ProceedsFromSaleOfAvailableForSaleSecurities,129,1049,601300000000.0,Proceeds from Sale of Available-for-sale Securities
+IncreaseDecreaseInContractWithCustomerLiability,129,985,9361000000.0,"Increase (Decrease) in Contract with Customer, Liability"
+OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax,129,859,1706000000.0,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), Reclassification, after Tax"
+EquityMethodInvestmentOtherThanTemporaryImpairment,129,534,10681000000.0,"Equity Method Investment, Other than Temporary Impairment"
+OtherComprehensiveIncomeDefinedBenefitPlansTax,129,527,4883000000.0,"Other Comprehensive Income (Loss), Pension and Other Postretirement Benefit Plans, Tax (Deprecated 2012-01-31)"
+InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures,128,1227,140790000000.0,"Investments in and Advance to Affiliates, Subsidiaries, Associates, and Joint Ventures"
+CapitalLeasesFutureMinimumPaymentsInterestIncludedInPayments,128,728,4739000000.0,"Capital Leases, Future Minimum Payments, Interest Included in Payments"
+NoncontrollingInterestIncreaseFromBusinessCombination,128,354,7502000000.0,"Noncontrolling Interest, Increase from Business Combination"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriodWeightedAverageExercisePrice,128,286,669.63,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Forfeitures in Period, Weighted Average Exercise Price (Deprecated 2012-01-31)"
+AvailableforsaleSecuritiesGrossUnrealizedGain,128,271,28773000000.0,"Available-for-sale Securities, Gross Unrealized Gains (Deprecated 2013-01-31)"
+IncreaseDecreaseInRestrictedCash,127,867,27244000000.0,Increase (Decrease) in Restricted Cash
+AllowanceForDoubtfulAccountsReceivableWriteOffs,127,788,1896000000.0,"Accounts Receivable, Allowance for Credit Loss, Writeoff"
+DefinedBenefitPlanEffectOfOnePercentagePointIncreaseOnAccumulatedPostretirementBenefitObligation,127,757,3760000000.0,"Defined Benefit Plan, Effect of One Percentage Point Increase on Accumulated Postretirement Benefit Obligation"
+InventoryWorkInProcessNetOfReserves,126,1404,7565000000.0,"Inventory, Work in Process, Net of Reserves"
+RepaymentsOfLinesOfCredit,126,995,132166423000.0,Repayments of Lines of Credit
+GoodwillTranslationAndPurchaseAccountingAdjustments,126,992,3449000000.0,"Goodwill, Translation and Purchase Accounting Adjustments"
+DeferredTaxAssetsLiabilitiesNetNoncurrent,126,608,36308000000.0,"Deferred Tax Assets, Net, Noncurrent"
+DebtInstrumentFairValue,124,832,103332000000.0,"Debt Instrument, Fair Value Disclosure"
+RepaymentsOfDebt,124,796,99393000000.0,Repayments of Debt
+ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill,124,706,8925000000.0,"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)"
+OtherComprehensiveIncomeReclassificationAdjustmentOnDerivativesIncludedInNetIncomeNetOfTax,124,471,1018000000.0,"Other Comprehensive Income (Loss), Reclassification Adjustment on Derivatives Included in Net Income, Net of Tax (Deprecated 2012-01-31)"
+IncomeTaxReconciliationTaxCreditsForeign,124,407,9151000000.0,"Effective Income Tax Rate Reconciliation, Tax Credit, Foreign, Amount"
+ProceedsFromIssuanceOfDebt,123,901,139169000000.0,Proceeds from Issuance of Debt
+CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations,123,842,24263000000.0,"Cash Provided by (Used in) Investing Activities, Discontinued Operations"
+DeferredTaxAssetsTaxCreditCarryforwardsForeign,123,825,22000000000.0,"Deferred Tax Assets, Tax Credit Carryforwards, Foreign"
+UnrecognizedTaxBenefitsPeriodIncreaseDecrease,123,615,6800000000.0,"Unrecognized Tax Benefits, Period Increase (Decrease)"
+EquitySecuritiesFvNi,123,608,353842000000.0,"Equity Securities, FV-NI"
+StockRepurchaseProgramAuthorizedAmount,123,289,82000000000.0,"Stock Repurchase Program, Authorized Amount (Deprecated 2014-01-31)"
+BusinessAcquisitionPurchasePriceAllocationGoodwillAmount,123,254,18743000000.0,"Business Acquisition, Purchase Price Allocation, Goodwill Amount (Deprecated 2013-01-31)"
+ProceedsFromSaleOfProductiveAssets,122,1081,23966000000.0,Proceeds from Sale of Productive Assets
+ProceedsFromMinorityShareholders,122,932,12714000000.0,Proceeds from Noncontrolling Interests
+DefinedBenefitPlanEffectOfOnePercentagePointIncreaseOnServiceAndInterestCostComponents,122,697,312000000.0,"Defined Benefit Plan, Effect of One Percentage Point Increase on Service and Interest Cost Components"
+SeveranceCosts1,122,607,2700000000.0,Severance Costs
+OtherComprehensiveIncomeLossReclassificationAdjustmentOnDerivativesIncludedInNetIncomeNetOfTax,122,350,1018000000.0,"Other Comprehensive Income (Loss), Reclassification Adjustment on Derivatives Included in Net Income, Net of Tax (Deprecated 2013-01-31)"
+IncomeTaxReconciliationRepatriationOfForeignEarnings,121,527,2991000000.0,"Effective Income Tax Rate Reconciliation, Repatriation of Foreign Earnings, Amount"
+IncreaseDecreaseInAccruedLiabilities,120,1559,12939000000.0,Increase (Decrease) in Accrued Liabilities
+EquityMethodInvestmentDividendsOrDistributions,120,1343,6444000000.0,"Proceeds from Equity Method Investment, Distribution"
+OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax,120,1197,15245000000.0,"Other Comprehensive Income (Loss), Defined Benefit Plan, Gain (Loss) Arising During Period, after Tax"
+OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax,120,687,739000000.0,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Tax"
+GainLossRelatedToLitigationSettlement,120,675,7936000000.0,Gain (Loss) Related to Litigation Settlement
+EffectiveIncomeTaxRateReconciliationFdiiAmount,120,324,4568000000.0,EffectiveIncomeTaxRateReconciliationFdiiAmount
+DividendsCommonStock,119,1347,10696000000.0,"Dividends, Common Stock"
+AccruedIncomeTaxesNoncurrent,119,1202,33589000000.0,"Accrued Income Taxes, Noncurrent"
+PaymentsToAcquireAvailableForSaleSecuritiesDebt,119,1133,397145000000.0,"Payments to Acquire Debt Securities, Available-for-sale"
+UnrecognizedTaxBenefitsInterestOnIncomeTaxesExpense,119,1063,802000000.0,"Unrecognized Tax Benefits, Interest on Income Taxes Expense"
+DeferredTaxAssetsCapitalLossCarryforwards,119,783,3300000000.0,"Deferred Tax Assets, Capital Loss Carryforwards"
+CapitalLeaseObligations,119,652,9406000000.0,Capital Lease Obligations
+EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitAmount,119,597,7123000000.0,"Effective Income Tax Rate Reconciliation, Tax Expense (Benefit), Share-based Payment Arrangement, Amount"
+InterestIncomeExpenseNet,118,1597,95443000000.0,"Interest Income (Expense), Net"
+OtherAssets,118,1310,564000000000.0,Other Assets
+LiabilitiesFairValueDisclosure,118,509,699661000000.0,"Financial and Nonfinancial Liabilities, Fair Value Disclosure"
+DeferredTaxAssetsLiabilitiesNetCurrent,118,420,10349000000.0,"Deferred Tax Assets, Net, Current"
+IncreaseDecreaseInReceivables,117,1850,54531000000.0,Increase (Decrease) in Receivables
+PaymentsOfDividendsMinorityInterest,117,1253,2240000000.0,"Payments of Ordinary Dividends, Noncontrolling Interest"
+FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetValue,117,691,46547000000.0,"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Value"
+CapitalLeasesFutureMinimumPaymentsPresentValueOfNetMinimumPayments,117,686,17370000000.0,"Capital Leases, Future Minimum Payments, Present Value of Net Minimum Payments"
+AvailableForSaleSecuritiesGrossUnrealizedLosses1,117,245,3496000000.0,"Available-for-sale Securities, Gross Unrealized Losses (Deprecated 2013-01-31)"
+TaxCreditCarryforwardAmount,116,693,39300000000.0,"Tax Credit Carryforward, Amount"
+ImpairmentOfLongLivedAssetsToBeDisposedOf,116,473,4409000000.0,Impairment of Long-Lived Assets to be Disposed of
+IncreaseDecreaseInDeferredRevenue,115,1256,67711000000.0,Increase (Decrease) in Deferred Revenue
+InventoryRawMaterialsNetOfReserves,115,1222,6681000000.0,"Inventory, Raw Materials, Net of Reserves"
+IncreaseDecreaseInDeferredIncomeTaxes,115,1187,9453000000.0,Increase (Decrease) in Deferred Income Taxes
+DefinedBenefitPlanPensionPlansWithAccumulatedBenefitObligationsInExcessOfPlanAssetsAggregateAccumulatedBenefitObligation,115,1075,61675000000.0,"Defined Benefit Plan, Plan with Accumulated Benefit Obligation in Excess of Plan Assets, Accumulated Benefit Obligation"
+ValuationAllowancesAndReservesBalance,115,1074,49000000000.0,"SEC Schedule, 12-09, Valuation Allowances and Reserves, Amount"
+DefinedBenefitPlanBenefitObligation,115,946,105975000000.0,"Defined Benefit Plan, Benefit Obligation"
+PaymentsOfDebtExtinguishmentCosts,115,674,7196000000.0,Payment for Debt Extinguishment or Debt Prepayment Cost
+RestrictedCash,115,602,35356000000.0,Restricted Cash
+BusinessCombinationContingentConsiderationLiability,115,448,8400000000.0,"Business Combination, Contingent Consideration, Liability"
+StockIssuedDuringPeriodValueConversionOfConvertibleSecurities,115,385,4954000000.0,"Stock Issued During Period, Value, Conversion of Convertible Securities"
+AvailableForSaleSecuritiesGrossRealizedGains,114,784,5047000000.0,"Available-for-sale Securities, Gross Realized Gains"
+ProceedsFromSaleOfEquityMethodInvestments,114,552,128429000000.0,Proceeds from Sale of Equity Method Investments
+AvailableForSaleSecuritiesAccumulatedGrossUnrealizedGainBeforeTax,114,420,20890000000.0,"Available-for-sale Securities, Accumulated Gross Unrealized Gain, before Tax"
+LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation,114,376,202707000000.0,"Disposal Group, Including Discontinued Operation, Liabilities"
+LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationNoncurrent,114,367,39213000000.0,"Disposal Group, Including Discontinued Operation, Liabilities, Noncurrent"
+DeferredTaxLiabilitiesGoodwillAndIntangibleAssets,113,1244,12206000000.0,"Deferred Tax Liabilities, Goodwill and Intangible Assets"
+ProceedsFromSaleMaturityAndCollectionsOfInvestments,113,1061,101406000000.0,"Proceeds from Sale, Maturity and Collection of Investments"
+OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax,113,974,5010000000.0,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, before Tax"
+DeferredTaxAssetsGoodwillAndIntangibleAssets,113,784,11645000000.0,"Deferred Tax Assets, Goodwill and Intangible Assets"
+RepaymentsOfShortTermDebt,113,784,37554000000.0,Repayments of Short-term Debt
+OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesTax,113,714,630000000.0,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI on Derivatives, Tax"
+FinitelivedIntangibleAssetsAcquired1,113,545,23264000000.0,Finite-lived Intangible Assets Acquired
+LongTermInvestments,112,1067,52354000000.0,Long-term Investments
+LineOfCreditFacilityRemainingBorrowingCapacity,112,692,21388000000.0,"Line of Credit Facility, Remaining Borrowing Capacity"
+OperatingLeaseExpense,112,602,6514000000.0,"Operating Lease, Expense"
+DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax,112,561,20984000000.0,"Discontinued Operation, Gain (Loss) on Disposal of Discontinued Operation, Net of Tax"
+AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearAmortizedCost,111,942,96776000000.0,"Debt Securities, Available-for-Sale, Amortized Cost, Maturity, Allocated and Single Maturity Date, Year One"
+DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,111,634,22134000000.0,"Discontinued Operation, Income (Loss) from Discontinued Operation, before Income Tax"
+AvailableForSaleSecuritiesAccumulatedGrossUnrealizedLossBeforeTax,111,414,5407000000.0,"Available-for-sale Securities, Accumulated Gross Unrealized Loss, before Tax"
+ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,110,1439,216386000000.0,"Proceeds from Maturities, Prepayments and Calls of Debt Securities, Available-for-sale"
+StockIssuedDuringPeriodValueEmployeeStockPurchasePlan,110,1055,3282000000.0,"Stock Issued During Period, Value, Employee Stock Purchase Plan"
+InventoryWorkInProcess,110,907,6508000000.0,"Inventory, Work in Process, Gross"
+DefinedBenefitPlanAssetsForPlanBenefitsNoncurrent,110,858,4158000000000.0,"Assets for Plan Benefits, Defined Benefit Plan"
+RedeemableNoncontrollingInterestEquityCarryingAmount,110,788,16998000000.0,"Redeemable Noncontrolling Interest, Equity, Carrying Amount"
+ProceedsFromShortTermDebt,110,754,41553000000.0,Proceeds from Short-term Debt
+DerivativeLiabilitiesCurrent,110,736,6195000000.0,"Derivative Liability, Current"
+CashAndCashEquivalentsFairValueDisclosure,110,484,36671000000.0,"Cash and Cash Equivalents, Fair Value Disclosure"
+StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount,110,272,35100000000.0,"Stock Repurchase Program, Remaining Authorized Repurchase Amount (Deprecated 2014-01-31)"
+CumulativeEffectOfInitialAdoptionOfFIN48,110,114,1255000000.0,Cumulative Effect of Initial Adoption of FIN 48 (Deprecated 2011-01-31)
+CashFlowHedgeGainLossToBeReclassifiedWithinTwelveMonths,109,763,5900000000.0,Cash Flow Hedge Gain (Loss) to be Reclassified within Twelve Months
+GoodwillGross,108,937,70200000000.0,"Goodwill, Gross"
+ValuationAllowancesAndReservesChargedToCostAndExpense,108,907,14299000000.0,"SEC Schedule, 12-09, Valuation Allowances and Reserves, Additions, Charge to Cost and Expense"
+ValuationAllowancesAndReservesDeductions,108,907,13263000000.0,"SEC Schedule, 12-09, Valuation Allowances and Reserves, Deduction"
+EmployeeServiceShareBasedCompensationTaxBenefitFromExerciseOfStockOptions,108,851,433000000.0,"Share-based Payment Arrangement, Exercise of Option, Tax Benefit"
+DerivativeGainLossOnDerivativeNet,108,722,9173000000.0,"Derivative, Gain (Loss) on Derivative, Net"
+DefinedBenefitPlanEffectOfOnePercentagePointDecreaseOnAccumulatedPostretirementBenefitObligation1,108,571,3362000000.0,"Defined Benefit Plan, Effect of One Percentage Point Decrease on Accumulated Postretirement Benefit Obligation"
+BusinessAcquisitionCostOfAcquiredEntityPurchasePrice,108,233,18500000000.0,"Business Acquisition, Cost of Acquired Entity, Purchase Price (Deprecated 2013-01-31)"
+PaymentsToAcquireAvailableForSaleSecurities,107,985,346372000000.0,Payments to Acquire Available-for-sale Securities
+DefinedBenefitPlanPensionPlansWithAccumulatedBenefitObligationsInExcessOfPlanAssetsAggregateFairValueOfPlanAssets,107,983,50820000000.0,"Defined Benefit Plan, Plan with Accumulated Benefit Obligation in Excess of Plan Assets, Plan Assets"
+ProceedsFromSaleAndMaturityOfMarketableSecurities,107,943,132906000000.0,Proceeds from Sale and Maturity of Marketable Securities
+AllocatedShareBasedCompensationExpenseNetOfTax,106,1350,3711000000.0,"Share-based Payment Arrangement, Expense, after Tax"
+OtherCostAndExpenseOperating,106,1306,66988000000.0,"Other Cost and Expense, Operating"
+OtherAssetsMiscellaneousNoncurrent,106,884,62950000000.0,"Other Assets, Miscellaneous, Noncurrent"
+PaymentsToAcquireIntangibleAssets,106,883,47596000000.0,Payments to Acquire Intangible Assets
+OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,106,836,4536000000.0,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax"
+IncomeTaxReconciliationNondeductibleExpenseImpairmentLosses,106,445,8705000000.0,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Impairment Losses, Amount"
+EmployeeServiceShareBasedCompensationCashReceivedFromExerciseOfStockOptions,105,685,3347000000.0,"Employee Service Share-based Compensation, Cash Received from Exercise of Stock Options (Deprecated 2017-01-31)"
+DeferredTaxAssetsInProcessResearchAndDevelopment,105,551,25903000000.0,"Deferred Tax Assets, in Process Research and Development"
+ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableIntrinsicValue,105,124,31068628000000.0,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercisable, Intrinsic Value (Deprecated 2011-01-31)"
+AmortizationOfFinancingCosts,104,987,788000000.0,Amortization of Debt Issuance Costs
+InterestIncomeExpenseNonoperatingNet,104,957,5229000000.0,"Interest Income (Expense), Nonoperating, Net"
+AdjustmentsRelatedToTaxWithholdingForShareBasedCompensation,104,796,18400000000.0,"Share-based Payment Arrangement, Decrease for Tax Withholding Obligation"
+InventoryRawMaterials,104,789,4918000000.0,"Inventory, Raw Materials, Gross"
+ContractWithCustomerAssetNet,104,593,9931000000.0,"Contract with Customer, Asset, after Allowance for Credit Loss"
+EquitySecuritiesFvNiUnrealizedGainLoss,104,592,76375000000.0,"Equity Securities, FV-NI, Unrealized Gain (Loss)"
+LossContingencyAccrualAtCarryingValue,104,550,5550000000.0,Loss Contingency Accrual
+DefinedBenefitPlanEffectOfOnePercentagePointDecreaseOnServiceAndInterestCostComponents1,104,521,208000000.0,"Defined Benefit Plan, Effect of One Percentage Point Decrease on Service and Interest Cost Components"
+AvailableForSaleSecuritiesFairValueDisclosure,104,235,172710000000.0,"Available-for-sale Securities, Fair Value Disclosure (Deprecated 2013-01-31)"
+DividendsPayableCurrent,103,1136,4216000000.0,"Dividends Payable, Current"
+FederalIncomeTaxExpenseBenefitContinuingOperations,103,1016,23427000000.0,"Federal Income Tax Expense (Benefit), Continuing Operations"
+PaymentsToAcquireOtherInvestments,103,900,41513000000.0,Payments to Acquire Other Investments
+OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax,103,896,47766000000.0,"OCI, Debt Securities, Available-for-Sale, Unrealized Holding Gain (Loss), before Adjustment and Tax"
+PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAccumulatedDepreciationAndAmortization,103,500,222043000000.0,"Property, Plant, and Equipment and Finance Lease Right-of-Use Asset, Accumulated Depreciation and Amortization"
+DefinedBenefitPlanEffectOfOnePercentagePointDecreaseOnAccumulatedPostretirementBenefitObligation,103,166,2973000000.0,"Defined Benefit Plan, Effect of One Percentage Point Decrease on Accumulated Postretirement Benefit Obligation (Deprecated 2012-01-31)"
+ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions,102,1158,5838000000.0,"Proceeds, Issuance of Shares, Share-based Payment Arrangement, Including Option Exercised"
+DeferredRevenueNoncurrent,102,827,8431000000.0,"Deferred Revenue, Noncurrent"
+OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax,102,721,3738000000.0,"OCI, Debt Securities, Available-for-Sale, Gain (Loss), after Adjustment, Tax"
+GainLossOnSaleOfInvestments,102,697,7715000000.0,Gain (Loss) on Sale of Investments
+DerivativeNotionalAmount,102,499,49813000000000.0,"Derivative, Notional Amount"

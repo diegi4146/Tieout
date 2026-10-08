@@ -1,0 +1,32 @@
+{
+  "run_at": "2026-10-08T05:02:06+00:00",
+  "universe": "S&P 500",
+  "companies": 500,
+  "facts": 12715293,
+  "filings": 30650,
+  "ingest": {},
+  "benford_overall_mad": 0.00033742600229272026,
+  "benford_flagged_filings": 58,
+  "benford_flagged_companies": 15,
+  "summary": {
+    "latest": {
+      "ratio_observations": 569267,
+      "flags": 44958,
+      "flags_high": 12569,
+      "flags_high_company_specific": 12096,
+      "yoy_flags": 25527,
+      "trend_flags": 29313,
+      "beneish_flags": 272
+    },
+    "original": {
+      "ratio_observations": 569179,
+      "flags": 44181,
+      "flags_high": 12281,
+      "flags_high_company_specific": 11803,
+      "yoy_flags": 25191,
+      "trend_flags": 28780,
+      "beneish_flags": 253
+    }
+  },
+  "seconds": 482.6
+}
